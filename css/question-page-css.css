@@ -1,0 +1,29 @@
+
+
+
+/*body{ font: 14px sans-serif; text-align: center; }*/
+
+#searchResult {
+	text-align: left;
+	padding-top:10px;
+}
+
+#questionsList {
+	text-align: left;
+	padding-top:10px;
+}
+
+.hidden{
+    display:none;
+}
+
+input[type='radio'], label{   
+    vertical-align: baseline;
+    padding: 5px;
+    margin: 5px;
+ }
+
+.top-buffer { margin-top:20px; }
+
+#pagination { margin-top:30%; }
+
